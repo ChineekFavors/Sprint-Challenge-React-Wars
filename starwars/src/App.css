@@ -1,8 +1,71 @@
 .App {
   text-align: center;
+ 
 }
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.starWarsContainer{
+	border: 1px solid rgb(255, 186, 111);
+	width: 833px;
+	height: 600px;
+	margin: 0 auto;
+	color: rgb(79, 28, 10);
+	
+	
+}
+.starWarsContainer:hover{
+	border: 1px solid rgb(79, 28, 10);
+	color: rgb(255, 186, 111);
+}
+
+.heading{
+	border:1px solid red;
+	width: 250px;
+	text-align: center;
+}
+.height{
+	border:1px solid red;
+	width: 120px;
+	position: relative;
+	left: 250px;
+	bottom: 605px;
+	text-align: center;
+
+}
+
+.mass{
+	border:1px solid red;
+	width: 100px;
+	position: relative;
+	left: 370px;
+	bottom: 1210px;
+	text-align: center;
+
+}
+.hair{
+	position: relative;
+	bottom: 1814px;
+	width: 180px;
+	left: 470px;
+	border:1px solid red;
+
+}
+.skin{
+	border:1px solid red;
+	position: relative;
+	bottom: 2418px;
+	width: 180px;
+	left: 651px;
+}
+.greatHero{
+	color: rgb(79, 28, 10);
+}
+.greatHero:hover{
+	color: rgb(255, 186, 111);
+}
+
+
+

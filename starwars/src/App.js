@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className="App">
       <h1 className="Header">React Wars</h1>
-      <h2 className="greatHero"> Whos your Favorite StarWars character</h2>
+      <h2 className="greatHero"> Who's your Favorite StarWars character</h2>
       <StarWarsData  />
     
     </div>

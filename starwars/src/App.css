@@ -8,7 +8,7 @@
 }
 /* write your parent styles in here for your App.js */
 .starWarsContainer{
-	border: 1px solid rgb(255, 186, 111);
+	border: 5px solid rgb(255, 186, 111);
 	width: 833px;
 	height: 600px;
 	margin: 0 auto;
@@ -17,7 +17,7 @@
 	
 }
 .starWarsContainer:hover{
-	border: 1px solid rgb(79, 28, 10);
+	border: 5px solid rgb(79, 28, 10);
 	color: rgb(255, 186, 111);
 }
 
@@ -54,7 +54,7 @@
 
 }
 .skin{
-	border:1px solid red;
+	border: 1px solid red;
 	position: relative;
 	bottom: 2418px;
 	width: 180px;
@@ -62,6 +62,9 @@
 }
 .greatHero{
 	color: rgb(79, 28, 10);
+	width: 833px;
+	margin: 0 auto;
+	margin-bottom: 3px;
 }
 .greatHero:hover{
 	color: rgb(255, 186, 111);
